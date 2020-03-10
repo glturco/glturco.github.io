@@ -1680,12 +1680,12 @@ section.lazy-placeholder:after {
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
-  background: #1a7c8b;
+  background: #666666;
   transition: none;
   min-height: 77px;
 }
 .cid-qTkzRZLJNu .navbar-dropdown.bg-color.transparent.opened {
-  background: #1a7c8b;
+  background: #666666;
 }
 .cid-qTkzRZLJNu a {
   font-style: normal;
@@ -1769,7 +1769,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-qTkzRZLJNu .dropdown .dropdown-menu {
-  background: #1a7c8b;
+  background: #666666;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2570,7 +2570,7 @@ section.lazy-placeholder:after {
 .cid-rSblQhqqzf {
   padding-top: 105px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/background44.jpg");
+  background-image: url("../../../assets/images/background45.jpg");
 }
 .cid-rSblQhqqzf .mbr-section-subtitle {
   text-align: center;
@@ -3035,7 +3035,7 @@ section.lazy-placeholder:after {
 .cid-rQcXzsFKFl {
   padding-top: 15px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-rQcXzsFKFl .card-img {
   background-color: #fff;
